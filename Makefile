@@ -21,4 +21,4 @@ demo2.o: cppstring.cpp
 	$(CXX) $(CFLAGS) -o demo2.o -c cppstring.cpp
 
 clean:
-	rm -f demo1 demo2 *.o
+	rm -f demo1 demo2 *.o *.out
