@@ -478,3 +478,6 @@ cout << "\n";
 
 ### 回文串(palindrome)
 回文串 是正着写和倒着写相同的字符串，即满足 $\forall 1\le i\le|s|, s[i]=s[|s|+1-i]$ 的 $s$。
+
+# 相关代码
+https://github.com/GSteve-Paul/acm-course-string
