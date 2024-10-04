@@ -1,7 +1,7 @@
 CFLAGS := -g -O0
 CFLAGS += -DCODENB=$(CODENB)
 
-.PHONY: clean
+.PHONY: clean run1 run2
 run1: clean demo1
 	./demo1
 
