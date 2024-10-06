@@ -8,6 +8,9 @@
 ```bash
 $ git clone https://github.com/GSteve-Paul/acm-course-string.git
 ```
+### 把CPP,C文件拖到DEV-C++中运行
+这可能需要你自己修改源代码中的一些东西
+
 ### 使用Make编译、运行程序
 教程内字符、C风格的字符数组型字符串示例代码在```char-array.c```中。C++风格的```std::string```示例代码在```cppstring.cpp```中。在以下叙述中，示例代码1为前者，示例代码2为后者。
 
